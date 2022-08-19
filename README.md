@@ -1,16 +1,15 @@
-### Hi there 👋
+<div style="display: inline_block" align="center">
+      <table>
+            <tr>
+            <td><a href="https://github.com/flavialima1007">
+            <img height="280em" width="100%"src="https://github-readme-stats.vercel.app/api?username=flavialima1007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=ffe5cf&icon_color=fe6e29&title_color=fe6e29&text_color=fbac7f"/></td>
+            </tr>
+      </table>
+</div>
 
-<!--
-**flavialima1007/flavialima1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <img align="center" alt="Flavia-laravel" height="50" width="60" src="https://icongr.am/devicon/laravel-plain.svg?size=88&color=f2eeee">
+   <img align="center" alt="Flavia-drupal" height="50" width="60" src="https://icongr.am/devicon/drupal-plain.svg?size=88&color=fffcfd">
+   <img align="center" alt="Flavia-php" height="50" width="60" src="https://icongr.am/devicon/php-plain.svg?size=88&color=fffcfd">
+</div>
